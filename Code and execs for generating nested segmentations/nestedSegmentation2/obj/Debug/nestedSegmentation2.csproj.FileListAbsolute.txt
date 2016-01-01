@@ -1,0 +1,5 @@
+C:\Users\Kaushik Suresh\Documents\Visual Studio 2008\Projects\nestedSegmentation2\nestedSegmentation2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kaushik Suresh\Documents\Visual Studio 2008\Projects\nestedSegmentation2\nestedSegmentation2\bin\Debug\nestedSegmentation2.exe
+C:\Users\Kaushik Suresh\Documents\Visual Studio 2008\Projects\nestedSegmentation2\nestedSegmentation2\bin\Debug\nestedSegmentation2.pdb
+C:\Users\Kaushik Suresh\Documents\Visual Studio 2008\Projects\nestedSegmentation2\nestedSegmentation2\obj\Debug\nestedSegmentation2.exe
+C:\Users\Kaushik Suresh\Documents\Visual Studio 2008\Projects\nestedSegmentation2\nestedSegmentation2\obj\Debug\nestedSegmentation2.pdb
